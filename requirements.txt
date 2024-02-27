@@ -1,0 +1,8 @@
+imutils
+opencv-python
+blur-detector
+scikit-image
+matplotlib
+blur_detector
+image_slicer
+pandas
